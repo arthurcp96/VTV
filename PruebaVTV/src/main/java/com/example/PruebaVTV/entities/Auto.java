@@ -6,8 +6,7 @@ public class Auto {
     private String modelo;
     private String nombrePropietario;
     private int fechaVencimiento;
-    private int matricula;
-    private int puertas;
+    
 
 
     public Auto(String dominio, String marca, String modelo, String nombrePropietario, int fechaVencimiento) {
